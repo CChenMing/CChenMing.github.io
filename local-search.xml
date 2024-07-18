@@ -5,8 +5,8 @@
   
   <entry>
     <title>2024夏季追番目录</title>
-    <link href="/project/2024/07/19/2407anime/"/>
-    <url>/project/2024/07/19/2407anime/</url>
+    <link href="/2024/07/19/2407anime/"/>
+    <url>/2024/07/19/2407anime/</url>
     
     <content type="html"><![CDATA[<ol><li><p>败犬女主太多了！</p><blockquote><p>A1制作，高质量没得说，剧情更是少见，小说本来就很热门，这下改编加上高质量必成热门动漫了<br><img src="https://s2.loli.net/2024/07/19/FPEkQCctT26d8ZO.jpg" width="30%"></p></blockquote></li><li><p>擅长逃跑的殿下</p><blockquote><p>CloverWorks制作，少见的日本历史题材，故事精彩，正太主人公，制作精良<br><img src="https://s2.loli.net/2024/07/19/eopLBYqybdTZkEM.jpg" width="30%"></p></blockquote></li><li><p>我推的孩子 第二季</p><blockquote><p>开始演舞台剧了，期待<br><img src="https://s2.loli.net/2024/07/19/2Tth4mBCwHVSPyq.jpg" width="30%"></p></blockquote></li><li><p>不时轻声地以俄语遮羞的邻座艾莉同学</p><blockquote><p>动画工房梅开二度，讲述毛子jk的故事，有一种新鲜感，让人眼前一亮<br> <img src="https://s2.loli.net/2024/07/19/klaOo3GteWME8Yg.jpg" width="30%"></p></blockquote></li><li><p>魔法少女与恶曾是敌人</p><blockquote><p>女主太好看辣！虽说有点工业糖精的味道，但是女主好看！<br><img src="https://s2.loli.net/2024/07/19/sxqiwuMRD4FSCkb.jpg" width="30%"></p></blockquote></li><li><p>亚托利 我挚爱的时光</p><blockquote><p>高性能！<br><img src="https://s2.loli.net/2024/07/19/nR5h8JlOYbdQ21w.png" width="30%"></p></blockquote></li><li><p>义妹生活</p></li><li><p>物语系列 外传季&amp;怪物季</p></li><li><p>……</p></li></ol>]]></content>
     
@@ -24,8 +24,8 @@
   
   <entry>
     <title>我的高中生活</title>
-    <link href="/project/2024/07/19/wo-de-gao-zhong-sheng-huo/"/>
-    <url>/project/2024/07/19/wo-de-gao-zhong-sheng-huo/</url>
+    <link href="/2024/07/19/wo-de-gao-zhong-sheng-huo/"/>
+    <url>/2024/07/19/wo-de-gao-zhong-sheng-huo/</url>
     
     <content type="html"><![CDATA[<p>我毕业于一所普通的中学，和一群朋友度过了难忘的三年。在高考前，我们是学校的学生；高考后，我们成为了校友。<br>有人说高考让中国人最美妙的青春都浪费在了题海中。我认为这句话，半对半错。高考固然重要，但更重要的是你面对人生的态度。保持积极乐观的态度，不被学习压垮，就是最好的应对方法。</p>]]></content>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/project/2024/07/18/hello-world/"/>
-    <url>/project/2024/07/18/hello-world/</url>
+    <link href="/2024/07/18/hello-world/"/>
+    <url>/2024/07/18/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
